@@ -70,12 +70,12 @@ const JoinSuccess = () => {
           </div>
           <br />
           <p>
-            Congratulations {details.firstName}, you're now ready to get started
+            Congratulations <h5>Ashutosh Mahapatra</h5> you're now ready to get started
             on KindMeal.my
           </p>
           <br />
           <p>
-            A verification email has been sent to {details.email} Please click
+            A verification email has been sent to <h5>Ashutoshm439@gmail.com</h5> Please click
             on the link there to activate your account and begin redeeming
             coupons.
           </p>

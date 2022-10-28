@@ -7,8 +7,6 @@ Project original website- https://www.kindmeal.my/
 
 - React.js
 - Chakra UI
-- Express
-- Mongo DB
 - Heroku
 
 ## Live Demo 
